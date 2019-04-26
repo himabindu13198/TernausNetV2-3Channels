@@ -1,0 +1,34 @@
+inplace_abn_cpu: \
+ /home/ubuntu/TernausNetV2/modules/src/inplace_abn_cpu.cpp \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/ATen.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/ATenGeneral.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/CPUGeneral.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Allocator.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Retainable.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Scalar.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Half.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/ScalarType.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/ArrayRef.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Error.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/optional.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/SmallVector.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/AlignOf.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/TensorBase.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/TensorImpl.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/UndefinedTensor.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Utils.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Type.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Generator.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/SparseTensorRef.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Tensor.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Storage.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/TensorAccessor.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Context.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/TensorGeometry.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/WrapDimUtils.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Functions.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Formatting.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/TensorOperators.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/TensorMethods.h \
+ /opt/anaconda3/lib/python3.6/site-packages/torch/lib/include/ATen/Dispatch.h \
+ /home/ubuntu/TernausNetV2/modules/src/inplace_abn.h
