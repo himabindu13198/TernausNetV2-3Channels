@@ -1,5 +1,6 @@
 # TernausNetV2-3Channels
 Kerala Floods Damage Assessment using TernausNetV2 (Remote Sensing Imageries and Deep Learning) 
+For 3-channel, panchromatic, high-resolution RGB, WorldView 2 and WorldView-3 satellite imagery. 
 
 # Problem Definition:
 
